@@ -1,0 +1,19 @@
+%% This is the specification file for features of a pressure sensor mat.
+% Baud rate
+115200
+% COM port
+COM3
+% Grid size pr. module (choose 8, 15, 22, 29, 36, 43) 
+29
+% Modules in x
+1
+% Modules in y 
+1
+% Sigma
+2
+% Kernel size
+61
+
+
+
+
