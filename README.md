@@ -2,11 +2,12 @@
 This is a github repository which includes code and data files from the bachelor thesis 'Force Displacement Visualization through 3D Printed Sensor Grid'.
 Authors: Peter Ebbe Jensen, Lukas Schou and Christian Cederhorn
 
-The files in this repository is made up of Matlab, Arduino IDE and Maple files. 
+The files in this repository is made up of Matlab, Arduino IDE, Maple files and a specs file to run the visualisation program.
 
 Matlab files:
 - 'Force_program' contains the code presenting sensorreadings in a three dimensional plot, fittet to display the values in Force.
 - 'Voltage_program' contains the code presenting sensorreadings in a three dimensional plot in voltage.
+- 'read_specs' is a file containing the functionto read from the specification file.
 - 'Test_single' is a test program used to read and plot voltage, force and resistance as a function of time
 
 Arduino IDE files:
