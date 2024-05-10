@@ -67,7 +67,6 @@ void loop() {
           Serial.print(x + 1);
           Serial.print(y + 1);
           Serial.print(Vo);
-          Serial.print("");
         }
       }
     }
