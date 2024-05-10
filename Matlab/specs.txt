@@ -3,7 +3,7 @@
 115200
 % COM port
 COM3
-% Grid size pr. module (choose 8, 15, 22, 29, 36, 43) 
+% Matrix size pr. module (choose 8, 15, 22, 29, 36, 43) 
 29
 % Modules in x
 2
