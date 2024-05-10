@@ -6,9 +6,9 @@ The files in this repository is made up of Matlab, Arduino IDE, Maple files and 
 
 Matlab files:
 - 'Force_program.m' contains the code presenting sensorreadings in a three dimensional plot, fittet to display the values in Force.
-- 'Resistor_model_3x3_full.mlx' code to calculate equation for 3 by 3 resistor model and then executing the solve.
+- 'Resistor_model_3x3_full.mlx' code to calculate equations for 3 by 3 resistor model and then executing the solve.
 - 'Resistor_model_3x3_with_equations.m' code to only execute the solve where the equation are already calculated.
-- 'Resistor_model_8x8_full.mlx' code to calculate equation for 8 by 8 resistor model and then executing the solve.
+- 'Resistor_model_8x8_full.mlx' code to calculate equations for 8 by 8 resistor model and then executing the solve.
 - 'Test_single.m' is a test program used to read and plot voltage, force and resistance as a function of time.
 - 'Voltage_program.m' contains the code presenting sensorreadings in a three dimensional plot in voltage.
 - 'read_specs.m' is a file containing the function to read from the specification file.
