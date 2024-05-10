@@ -16,8 +16,8 @@ Matlab files:
 
 Arduino IDE files:
 - '8x8_program.ino' is the general code to read data from the modules which can be used together with both the 'Force_program' and 'Voltage_program' in Matlab.
-- 'Test_single.ino' is the Arduino code matching the 'Test_single.m' Matlab code, where you manually choose the location of the sensor to be read in the Arduino code.
 - 'Motor_control.ino' is the Arduino code to run the motor for the tests.
+- 'Test_single.ino' is the Arduino code matching the 'Test_single.m' Matlab code, where you manually choose the location of the sensor to be read in the Arduino code.
 
 Maple files:
 - 'Resistor_model_3x3.mw' is the maple dokument with the calculation to make and execute the 3 by 3 resistor model
