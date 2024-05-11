@@ -13,7 +13,3 @@ COM3
 2
 % Kernel size
 61
-
-
-
-
