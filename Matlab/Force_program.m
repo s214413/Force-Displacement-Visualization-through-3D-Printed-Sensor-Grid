@@ -265,12 +265,12 @@ while ishandle(plotGraph)
     % Increment the iteration counter
     iteration = iteration + 1;
 
-    % Print the elapsed time
+    % Print the response time
     if x1 == 1 && y1 == 1
         current_time = toc;
-        % Update the plot title with the new elapsed time
-        title(sprintf('%s\nElapsed time: %.3f seconds', plotTitle, current_time - last_time),'FontSize',15);
-        % fprintf('Elapsed time: %.3f seconds\r', current_time - last_time);
+        % Update the plot title with the new response time
+        title(sprintf('%s\nResponse time: %.3f seconds', plotTitle, current_time - last_time),'FontSize',15);
+        % fprintf('Response time: %.3f seconds\r', current_time - last_time);
         last_time = toc;
     end
 end
